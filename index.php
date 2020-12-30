@@ -10,6 +10,9 @@
         .alerta{
             color: #bd2130 !important;
         }
+        body{
+            
+        }
     </style>
 </head>
 <body>
